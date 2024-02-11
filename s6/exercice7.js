@@ -1,0 +1,2 @@
+// Exercice 7: Parcours d'objet récursif
+// Objectif : Écrire une fonction récursive qui parcourt toutes les propriétés d'un objet (y compris les objets imbriqués) et applique une fonction de transformation à toutes les clés.
